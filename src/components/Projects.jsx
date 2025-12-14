@@ -104,7 +104,7 @@ const Projects = () => {
                     whileHover={{ scale: 1.05 }}
                     className="rounded-2xl overflow-hidden"
                   >
-                    <img alt="Two men smiling for a picture at a tech summit" className="w-full h-full object-cover" src="https://horizons-cdn.hostinger.com/1d5877df-d7b9-4604-8605-1a33ff0e88bd/bd18f7a478fdd5eb3e1772b7ea84dad5.jpg" />
+                    <img alt="Two men smiling for a picture at a tech summit" className="w-full h-full object-cover" src="/awsevent.jpeg" />
                   </motion.div>
                 </div>
               </div>
