@@ -8,7 +8,7 @@ import { toast } from '@/components/ui/use-toast';
 const Hero = () => {
   const handleDownloadCV = () => {
   const link = document.createElement("a");
-  link.href = "/public/Shikhil_Saxena_2025.pdf";
+  link.href = "/Shikhil_Saxena_2025.pdf";
   link.download = "Shikhil_Saxena_2025.pdf";
   document.body.appendChild(link);
   link.click();
@@ -123,7 +123,7 @@ const Hero = () => {
                 transition={{ type: "spring", stiffness: 300, damping: 20 }} 
                 className="relative z-10 rounded-3xl overflow-hidden glass-effect"
               >
-                <img alt="Portrait of Shikhil Saxena" className="w-full h-auto object-cover" src="./public/profile.jpeg" />
+                <img alt="Portrait of Shikhil Saxena" className="w-full h-auto object-cover" src="/profile.jpeg" />
               </motion.div>
 
               <motion.div 

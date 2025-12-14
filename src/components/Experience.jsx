@@ -26,7 +26,7 @@ const Experience = () => {
         'Improved code collaboration in 6-member team using Git, cut code review times by 40%.',
         'Accelerated builds by 15% using Spring Tool Suite for rapid prototyping.'
       ],
-      logo: './public/images.jpg',
+      logo: '/images.jpg',
       emoji: '🇮🇳'
     },
     {
@@ -41,7 +41,7 @@ const Experience = () => {
         'Reduced vehicle demand prediction time by 50% with optimized solutions.',
         'Led team to simplify business flows, cutting costs by 20% and boosting performance.'
       ],
-      logo: './public/Logo-RG-yoast.png',
+      logo: '/Logo-RG-yoast.png',
       emoji: '🚗'
     }
   ];

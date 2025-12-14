@@ -9,19 +9,19 @@ const ImageGallery = () => {
 
   const images = [
     {
-      src: "./public/profile.jpeg",
+      src: "/profile.jpeg",
       alt: "Portrait of Shikhil Saxena",
       title: "Professional Headshot",
       description: "My official portrait for professional profiles."
     },
     {
-      src: "./public/awsevent.jpeg",
+      src: "/awsevent.jpeg",
       alt: "Two men smiling for a picture at a tech summit",
       title: "Tech Summit",
       description: "Networking with peers at a recent tech conference."
     },
     {
-      src: "/public/googleevent.jpeg",
+      src: "/googleevent.jpeg",
       alt: "Man standing in front of a Google logo",
       title: "Community Event",
       description: "Engaging with the tech community at a Google event."

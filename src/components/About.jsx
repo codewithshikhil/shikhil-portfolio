@@ -42,7 +42,7 @@ const About = () => {
   return (
     <section id="about" className="py-20 relative">
       <div className="absolute inset-0 opacity-5">
-        <img alt="Man standing in front of a Google logo" className="w-full h-full object-cover" src="https://horizons-cdn.hostinger.com/1d5877df-d7b9-4604-8605-1a33ff0e88bd/a59f5af9b70850468f661c27c37b8e2e.jpg" />
+        <img alt="Man standing in front of a Google logo" className="w-full h-full object-cover" src="/googleevent.jpeg" />
       </div>
 
       <div className="container mx-auto px-6 relative z-10">
