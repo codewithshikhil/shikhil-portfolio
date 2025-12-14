@@ -8,8 +8,8 @@ import { toast } from '@/components/ui/use-toast';
 const Hero = () => {
   const handleDownloadCV = () => {
   const link = document.createElement("a");
-  link.href = "/Shikhil_Saxena_2025.pdf";
-  link.download = "Shikhil_Saxena_2025.pdf";
+  link.href = "/Shikhil_Saxena_Full_Stack_Developer_Resume.pdf";
+  link.download = "Shikhil_Saxena_Full_Stack_Developer_Resume.pdf";
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
